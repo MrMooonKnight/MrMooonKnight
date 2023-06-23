@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [100 Days Of Code Python Bootcamp](https://github.com/mrblackhearts/100-days-of-code-python-bootcamp)
 
-- 🌱 I’m currently learning **Python, Unity Game Dev.**
+- 🌱 I’m currently learning **Python and Unity Game Dev.**
 
-- 📫 How to reach me **greenthumb2284@gmail.com**
+- 📫 How to reach me : **greenthumb2284@gmail.com**
 
-- ⚡ Fun fact **I write encryption algorithms as to pass time.**
+- ⚡ Fun fact, **I write encryption algorithms to pass time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
