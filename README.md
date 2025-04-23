@@ -17,23 +17,24 @@
 
 <!-- Repositories -->
 <div width="100%" align="center">
-
+  
   <a href="https://github.com/MrMooonKnight/cyphraguard" title="Cyphraguard">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MrMooonKnight&repo=cyphraguard&theme=dracula&bg_color=0b0601&title_color=BA5F17&line=BA5F17&area=true&border_color=BA5F17&border_radius=10">
   </a>
-
-  <a href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=dracula&bg_color=0b0601&title_color=BA5F17&line=BA5F17&area=true&border_color=BA5F17&border_radius=10">
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://github.com/MrMooonKnight/GitAI" title="Data Structures">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MrMooonKnight&repo=GitAI&theme=dracula&bg_color=0b0601&title_color=BA5F17&line=BA5F17&area=true&border_color=BA5F17&border_radius=10">
   </a>
-
 </div>
 
+<br/> 
+
 <div width="100%" align="center">
-
-  <a href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=dracula&bg_color=0b0601&title_color=BA5F17&line=BA5F17&area=true&border_color=BA5F17&border_radius=10">
+  
+  <a href="https://github.com/MrMooonKnight/hislilogger" title="Turkce-Heceleme-CPP">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MrMooonKnight&repo=hislilogger&theme=dracula&bg_color=0b0601&title_color=BA5F17&line=BA5F17&area=true&border_color=BA5F17&border_radius=10">
   </a>
-
+  &nbsp;&nbsp;&nbsp;&nbsp;   
   <a href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT">
    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=dracula&bg_color=0b0601&title_color=BA5F17&line=BA5F17&area=true&border_color=BA5F17&border_radius=10">
   </a>
