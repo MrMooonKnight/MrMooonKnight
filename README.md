@@ -22,7 +22,7 @@
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MrMooonKnight&repo=cyphraguard&theme=dracula&bg_color=0b0601&title_color=BA5F17&line=BA5F17&area=true&border_color=BA5F17&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp; 
-  <a href="https://github.com/MrMooonKnight/GitAI" title="Data Structures">
+  <a href="https://github.com/MrMooonKnight/GitAI" title="Git-AI">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MrMooonKnight&repo=GitAI&theme=dracula&bg_color=0b0601&title_color=BA5F17&line=BA5F17&area=true&border_color=BA5F17&border_radius=10">
   </a>
 </div>
@@ -31,19 +31,18 @@
 
 <div width="100%" align="center">
   
-  <a href="https://github.com/MrMooonKnight/hislilogger" title="Turkce-Heceleme-CPP">
+  <a href="https://github.com/MrMooonKnight/hislilogger" title="Hislilogger">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MrMooonKnight&repo=hislilogger&theme=dracula&bg_color=0b0601&title_color=BA5F17&line=BA5F17&area=true&border_color=BA5F17&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;   
-  <a href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT">
-   <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=dracula&bg_color=0b0601&title_color=BA5F17&line=BA5F17&area=true&border_color=BA5F17&border_radius=10">
+  <a href="https://github.com/MrMooonKnight/enigmatic-encryptions" title="Enigmatic Encryptions">
+   <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=MrMooonKnight&repo=enigmatic-encryptions&theme=dracula&bg_color=0b0601&title_color=BA5F17&line=BA5F17&area=true&border_color=BA5F17&border_radius=10">
   </a>
 
 </div>
 
-
-<br/><br/><br/><br/><br/><br/>
+<br/>
 
 <h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">Show More 🔍</a>
 </h4>
