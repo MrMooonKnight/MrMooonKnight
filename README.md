@@ -30,5 +30,5 @@
 </p>
 <!-- Contribution Graph  -->
 <p align=center>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrMooonKnight&theme=dracula&bg_color=20232a&hide_border=true" width="80%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrMooonKnight&theme=orange&bg_color=000000&hide_border=false" width="100%"/>
 </p>
