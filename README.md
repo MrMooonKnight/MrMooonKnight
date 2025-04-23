@@ -30,5 +30,7 @@
 </p>
 <!-- Contribution Graph  -->
 <p align=center>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrMooonKnight&theme=orange&bg_color=000000&hide_border=false" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrMooonKnight&theme=monokai&bg_color=000000&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrMooonKnight&theme=gruvbox&bg_color=000000&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrMooonKnight&theme=coral&bg_color=000000&hide_border=true&area=true" width="100%"/>
 </p>
