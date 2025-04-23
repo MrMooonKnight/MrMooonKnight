@@ -33,4 +33,3 @@
 <p align=center>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrMooonKnight&theme=gruvbox&bg_color=000000&hide_border=true&title_color=BA5F17&line=BA5F17&area=true" width="100%"/>
 </p>
-<h1 color=BA5F17></h1>
